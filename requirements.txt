@@ -1,0 +1,15 @@
+art
+colorama
+halo
+ipaddress
+json
+os
+requests
+rich
+shlex
+shutil
+socket
+subprocess
+sys
+time
+tldextract
